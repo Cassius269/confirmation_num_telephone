@@ -1,0 +1,15 @@
+form {
+    display: grid;
+    grid-template-columns: 200px 200px;
+    grid-template-rows: 25px 25px;
+    gap: 1rem;
+    background-color: grey;
+    width: 420px;
+    margin: 5rem auto;
+    padding: 1.5rem;
+  }
+
+
+  #buttonSubmit{
+    grid-column: 2/3;
+}
