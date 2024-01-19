@@ -13,3 +13,13 @@ form {
   #buttonSubmit{
     grid-column: 2/3;
 }
+
+#form_imageIndicateurTel{
+  fill: red;
+  height: 25px;
+  position: relative;
+  top: 7px;
+  left: 15px;
+}
+
+
