@@ -1,3 +1,12 @@
+*{
+  margin:0;
+  padding:0;
+  border: none;
+}
+
+
+
+
 form {
     display: grid;
     grid-template-columns: 200px 200px;
@@ -19,7 +28,8 @@ form {
   height: 25px;
   position: relative;
   top: 7px;
-  left: 15px;
+  left: 31px;
+  visibility: hidden;
 }
 
 
